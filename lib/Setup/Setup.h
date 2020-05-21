@@ -20,5 +20,4 @@ Shifty sOut;
 #define SRCLK 10         //shiftRegisterClockPin
 #define RCLK 5           //RegistarClockPin Latch
 #define writeSgn sOut.writeBit
-
 #endif
