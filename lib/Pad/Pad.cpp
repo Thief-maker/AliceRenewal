@@ -1,7 +1,6 @@
-#include <Arduino.h>
-#include <keypad.h>
+#include <Pad.h>
 
-int keypad::readKey() {
+int Pad::readKey() {
   int chk;
   //int tNum = sizeof(resVal[]/int);
 
